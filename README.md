@@ -1,0 +1,2 @@
+# shortnote
+my static website
